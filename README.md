@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w0rst, Holenyshchenko Serhii
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @serjHol, Holenyshchenko Serhii
+- 👀 I’m fullstack web developer
 - 📫 How to reach me: justforhearthstoned@gmail.com
 
